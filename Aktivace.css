@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 845px;
+  min-height: 1009px;
 }
 
 .u-section-1 .u-text-1 {
@@ -15,13 +15,13 @@
 }
 
 .u-section-1 .u-text-4 {
-  margin: -83px 196px 0 auto;
+  margin: -151px 126px 0 auto;
 }
 
 .u-section-1 .u-video-1 {
   width: 570px;
   height: 321px;
-  margin: 9px 31px 0 auto;
+  margin: 29px 126px 0 auto;
 }
 
 .u-section-1 .embed-responsive-1 {
@@ -29,36 +29,97 @@
 }
 
 .u-section-1 .u-text-5 {
-  margin: 32px auto 60px;
+  margin: 80px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1011px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 21px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 75px;
+    margin-right: auto;
+    margin-left: 107px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-right: auto;
+    margin-left: 107px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 46px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1105px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 16px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 38px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-top: 16px;
+    margin-left: auto;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 828px;
+    min-height: 1103px;
   }
 
   .u-section-1 .u-text-4 {
-    margin-right: 147px;
+    margin-top: 25px;
+    margin-right: 0;
+    margin-left: auto;
   }
 
   .u-section-1 .u-video-1 {
     width: 540px;
     height: 304px;
-    margin-right: 0;
+    margin-top: 15px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 715px;
+    min-height: 1125px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 59px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 16px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-left: 77px;
+    margin-top: 46px;
   }
 
   .u-section-1 .u-text-4 {
-    margin-right: 93px;
+    margin-top: 20px;
   }
 
   .u-section-1 .u-video-1 {
